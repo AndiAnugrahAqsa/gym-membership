@@ -2,7 +2,7 @@ name: CD PRODUCTION
 on:
   push:
     branches:
-      - "main"
+      - "master"
       
 jobs:
   testing:
