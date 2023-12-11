@@ -2,7 +2,7 @@ name: CI PROJECT
 on:
   pull_request:
     branches:
-      - "main"
+      - "master"
       - "development"
       
 jobs:
